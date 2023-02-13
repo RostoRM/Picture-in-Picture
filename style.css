@@ -20,6 +20,7 @@ body {
   background: -webkit-linear-gradient(to right, #1cb5e0, #000046);
   background: linear-gradient(to bottom, #0570f1 50%, #062750);
 }
+
 .hero_title {
   font-family: myFirstFont;
   font-size: 4.5rem;
@@ -64,6 +65,7 @@ body {
   font-size: 1.8rem;
   line-height: 1.5;
 }
+
 .instruction-section p {
   margin: 0;
 }
@@ -76,6 +78,7 @@ body {
   margin: 0;
   padding-top: 2rem;
 }
+
 .browsers-names {
   color: #ffffffc7;
   font-size: 1.3rem;
@@ -128,7 +131,6 @@ span:nth-child(2) {
 }
 
 /* SVG */
-
 path.one {
   transition: 0.4s;
   transform: translateX(-60%);
@@ -154,7 +156,6 @@ path.two {
 }
 
 /* SVG animations */
-
 @keyframes color_anim {
   0% {
     fill: white;
